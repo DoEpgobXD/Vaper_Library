@@ -1,0 +1,12 @@
+button {
+  line-break: auto;
+}
+
+
+.video-game-list{
+  display: flex;
+  column-gap: 24px;
+}
+card{
+  
+}

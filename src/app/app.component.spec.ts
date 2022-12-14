@@ -1,3 +1,4 @@
+import { style } from '@angular/animations';
 import { TestBed } from '@angular/core/testing';
 import { AppComponent } from './app.component';
 
